@@ -1,0 +1,5 @@
+Belajar GIT :
+- Belajar Repo
+- Belajar Commit
+- Belajar Branch
+- Belajar Merge
