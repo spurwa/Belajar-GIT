@@ -4,3 +4,5 @@ Belajar GIT :
 - Belajar Branch
 - Belajar Merge
 - Belajar clone
+- Belajar Push
+- Belajar Pull
