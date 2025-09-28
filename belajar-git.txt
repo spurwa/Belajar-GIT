@@ -3,3 +3,4 @@ Belajar GIT :
 - Belajar Commit
 - Belajar Branch
 - Belajar Merge
+- Belajar clone
