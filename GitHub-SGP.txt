@@ -3,3 +3,5 @@ Untuk belajar GitHub harus mengetahui beberapa Terminologi berikut:
 2. Committ
 3. Branch
 4. Merge
+5. Clone
+6. Conflict
