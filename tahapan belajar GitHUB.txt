@@ -1,3 +1,5 @@
 Tahapan Belajar GitHUB:
 1. Belajar Committ
 2. Belajar Branch
+3. Belajar Clone
+4. Belajar Merge
