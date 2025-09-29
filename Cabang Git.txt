@@ -2,3 +2,5 @@ Untuk memahami Cabang Git maka diperlukan:
 1. Proses Branching
 2. Proses Committ
 3. Proses Merge
+4. Proses Pull
+5. Proses Conflict
